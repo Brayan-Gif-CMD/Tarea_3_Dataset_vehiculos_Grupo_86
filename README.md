@@ -9,8 +9,8 @@
 #### - Lectura del archivo CSV con los datos de vehículos.
 
 ### 2. Procesamiento de Datos
-#### - revisión y tratamiento de valores nulos
-#### - conversión de columnas con unidades a valores numéricos.
+#### - Revisión y tratamiento de valores nulos
+#### - Conversión de columnas con unidades a valores numéricos.
 #### - Eliminación de registros inconsistentes o irrelevantes.
 
 ### 3. Análisis exploratorio (EDA)
@@ -20,14 +20,14 @@
 #### - Histogramas, grafico de dispersión, mapa de calor, grafico de predicciones.
 
 ### 4. Ingeniería de características
-#### - conversión de variables categóricas a numéricas.
-#### - codificación simple map().
+#### - Conversión de variables categóricas a numéricas.
+#### - Codificación simple map().
 #### - Selección de las variables más relevantes para el modelo.
 
 ### 5. División del Dataset
-#### - División de conjunto de entrenamiento y prueba.
+#### - División en conjunto de entrenamiento y prueba (train_test_split).
 
-### 6. División del Dataset
+### 6. Entrenamiento del Modelo
 #### - Entrenamiento del modelo de regresión lineal.
 #### - Predicción de precios.
 
